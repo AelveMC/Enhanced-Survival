@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:egg",
+            "item_h": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:apple",
+            "item_h": "minecraft:apple"
+        },
+        {
+            "item": "minecraft:sugar",
+            "item_h": "minecraft:sugar"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "item_h": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

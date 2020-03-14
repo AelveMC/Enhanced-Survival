@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bread",
+            "item_h": "minecraft:bread"
+        },
+        {
+            "item": "minecraft:carrot",
+            "item_h": "minecraft:carrot"
+        },
+        {
+            "item": "minecraft:potato",
+            "item_h": "minecraft:potato"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "item_h": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

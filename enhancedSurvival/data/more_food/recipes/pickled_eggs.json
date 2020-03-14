@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:brown_mushroom",
+            "item_h": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:sugar",
+            "item_h": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:egg",
+            "item_h": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:glass_bottle",
+            "item_h": "minecraft:glass_bottle"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "item_h": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "more_food:pie_apple"
+      }
+    }
+  },
+  "rewards": {
+    "function": "more_food:recipes/pie_apple"
+  }
+}

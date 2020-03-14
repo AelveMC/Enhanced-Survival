@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:brown_mushroom",
+            "item_h": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:sugar",
+            "item_h": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:milk_bucket",
+            "item_h": "minecraft:milk_bucket"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "item_h": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

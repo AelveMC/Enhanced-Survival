@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:apple",
+		  "nbt": "{CustomModelData:3102,display:{Name:\"[{\\\"text\\\":\\\"Pickled Eggs\\\",\\\"color\\\":\\\"white\\\",\\\"italic\\\":false}]\"}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "more_food:eat_pickled_eggs"
+  }
+}

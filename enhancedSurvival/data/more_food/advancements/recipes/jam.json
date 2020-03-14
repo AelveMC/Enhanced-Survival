@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "more_food:jam"
+      }
+    }
+  },
+  "rewards": {
+    "function": "more_food:recipes/jam"
+  }
+}
