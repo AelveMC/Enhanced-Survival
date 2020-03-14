@@ -1,0 +1,33 @@
+{
+	"parent": "item/handheld",
+	"display": {
+        "thirdperson_righthand": {
+            "rotation": [ 45, 135, 0 ],
+            "translation": [ 3, -2, 0 ],
+            "scale": [ 1.4, 1.4, 1.4 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 45, 135, 0 ],
+            "translation": [ 3, -2, 0 ],
+            "scale": [ 1.4, 1.4, 1.4 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 180, -5 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1.25, 1.25, 1.25 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 180, -5 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1.25, 1.25, 1.25 ]
+        },
+        "gui": {
+            "rotation": [ 15, -25, -5 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1.2, 1.2, 1.2 ]
+        }
+    },
+	"textures": {
+		"layer0": "wearables/lost_divine_shield"
+	}
+}
