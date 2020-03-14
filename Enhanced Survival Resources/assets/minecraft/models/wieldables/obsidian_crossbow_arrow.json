@@ -1,0 +1,6 @@
+{
+    "parent": "wieldables/obsidian_crossbow_standby",
+    "textures": {
+        "layer0": "wieldables/obsidian_crossbow_arrow"
+    }
+}

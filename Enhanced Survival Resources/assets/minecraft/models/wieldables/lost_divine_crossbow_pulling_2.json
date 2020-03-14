@@ -1,0 +1,6 @@
+{
+    "parent": "wieldables/lost_divine_crossbow_standby",
+    "textures": {
+        "layer0": "wieldables/lost_divine_crossbow_pulling_2"
+    }
+}

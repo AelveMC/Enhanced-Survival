@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+	"display": {
+        "gui": {
+            "scale": [ 0.9, 0.9, 1 ]
+        }
+	},
+    "textures": {
+        "layer0": "wieldables/obsidian_axe"
+    }
+}

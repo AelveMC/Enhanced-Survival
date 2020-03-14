@@ -1,0 +1,40 @@
+{
+    "parent": "item/handheld",
+	"display": {
+        "thirdperson_righthand": {
+            "rotation": [ 32, 90, 0 ],
+			"translation": [0, 6, 0],
+            "scale": [ 1, 1, 1 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 32, 270, 0 ],
+			"translation": [0, 6, 0],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 90, 65 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 130, 270, 65 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale": [ 1, 1, 1 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+			"translation": [0, 3, 0],
+            "scale":[ 0.6, 0.6, 0.6	]
+        }
+    },
+    "textures": {
+        "layer0": "wieldables/lost_divine_sword"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+	"display": {
+        "gui": {
+            "scale": [ 1, 1, 1 ]
+        }
+	},
+    "textures": {
+        "layer0": "wieldables/looting_blade"
+    }
+}

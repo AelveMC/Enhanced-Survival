@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+	"display": {
+        "gui": {
+            "scale": [ 1.0, 1.0, 1 ]
+        }
+	},
+    "textures": {
+        "layer0": "wieldables/enhanced_hoe"
+    }
+}
