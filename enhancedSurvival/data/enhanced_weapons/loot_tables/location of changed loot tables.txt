@@ -1,0 +1,2 @@
+minecraft/loot_tables/chests
+minecraft/loot_tables/chests/village

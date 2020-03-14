@@ -1,0 +1,36 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:iron_sword",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{CustomModelData:2001,display:{Name:\"[{\\\"text\\\":\\\"Fraeren\\\",\\\"italic\\\":false,\\\"color\\\":\\\"yellow\\\"}]\",Lore:[\"[{\\\"text\\\":\\\"Duality\\\",\\\"italic\\\":false,\\\"color\\\":\\\"gray\\\"}]\"]}}"				
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:iron_sword",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{CustomModelData:2001,display:{Name:\"[{\\\"text\\\":\\\"Sor'ca\\\",\\\"italic\\\":false,\\\"color\\\":\\\"yellow\\\"}]\",Lore:[\"[{\\\"text\\\":\\\"Duality\\\",\\\"italic\\\":false,\\\"color\\\":\\\"gray\\\"}]\"]}}"			
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
