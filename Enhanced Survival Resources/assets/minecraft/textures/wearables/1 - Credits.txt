@@ -1,0 +1,17 @@
+############################################################
+Find links to texture sources in "Resources" file.
+Textures may have been modifed to fit into the game better.
+############################################################
+
+By Avery
+- Obsidian armor set
+- Lost divine armor set
+- Valkyrie armor set
+- impact_circlet
+- stability_circlet
+- chilled_circlet
+- aegies_circlet
+- abyss_walker
+
+By Bougainvillea
+- brier_circlet
