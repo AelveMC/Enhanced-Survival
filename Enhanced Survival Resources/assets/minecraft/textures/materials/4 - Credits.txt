@@ -1,0 +1,14 @@
+############################################################
+Find links to texture sources in "Resources" file.
+Textures may have been modifed to fit into the game better.
+############################################################
+
+By Avery
+- amethyst
+- aquamarine
+- jade
+- moonstone
+- ruby
+- sapphire
+- topaz
+

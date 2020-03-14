@@ -1,0 +1,71 @@
+############################################################
+Find links to texture sources in "Resources" file.
+Textures may have been modifed to fit into the game better.
+############################################################
+
+### FOOD ###
+By Henry Software
+- apple_pie
+- cheese
+- custard_pie
+- eggs
+- jam
+- pickled_eggs
+
+By Avery
+- berry_crostata
+
+By Orteil
+- dumpling
+
+### Fungi ###
+By Neoriceisgood
+- banded_entoloma
+- banded_parasol
+- blisterwort
+- bog_beacon_asco_cap
+- cairn_bolete
+- coral_waxcap
+- crowned_stalk_cap
+- dust_bolete
+- freckled_damperling
+- glowing_mushroom
+- greenmote
+- honey_stool
+- mottled_milk_cap
+- scaly_pholiota
+- tinted_bonnet
+- white_cap
+
+By ssugmi
+- blister_pod
+- cinnabar_polypore_cap
+- clouded_funnel
+- dusted_pixie_cap
+- emetic_russula
+- field_mushroom
+- fly_amanita
+- frosted_amanita
+- fungal_pods
+- giant_lichen
+- golden_scalycap
+- green_brittlegill
+- hydnum_cap
+- imp_stool
+- mutated_spore_cluster
+- night_amanita
+- red_banded_cort
+- red_parasol
+- red_stain_shelf_cap
+- seawell_cap
+- stipplescale_fungus
+- summer_bolete
+- tinder_polypore_cap
+- watcher's_eye
+- wisp_stalk_cap
+- yellowfoot_rot_fungus
+
+By Avery
+- brown_chanterelle
+- stinkhorn_cap
+- verdigris_agaric_cap
