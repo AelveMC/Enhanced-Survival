@@ -1,0 +1,42 @@
+{
+  "rewards": {
+		"function": "gems:detectgems"
+    },		
+    "criteria": {	
+        "unlock": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:firework_star",
+						"nbt": "{CustomModelData:4000,display:{Name:\"[{\\\"text\\\":\\\"Amethyst\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
+                    },
+					{
+                        "item": "minecraft:firework_star",
+						"nbt": "{CustomModelData:4001,display:{Name:\"[{\\\"text\\\":\\\"Aquamarine\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
+                    },
+					{
+                        "item": "minecraft:firework_star",
+						"nbt": "{CustomModelData:4002,display:{Name:\"[{\\\"text\\\":\\\"Jade\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
+                    },
+					{
+                        "item": "minecraft:firework_star",
+						"nbt": "{CustomModelData:4003,display:{Name:\"[{\\\"text\\\":\\\"Moonstone\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
+                    },
+					{
+                        "item": "minecraft:firework_star",
+						"nbt": "{CustomModelData:4004,display:{Name:\"[{\\\"text\\\":\\\"Ruby\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
+                    },
+					{
+                        "item": "minecraft:firework_star",
+						"nbt": "{CustomModelData:4005,display:{Name:\"[{\\\"text\\\":\\\"Sapphire\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
+                    },
+					{
+                        "item": "minecraft:firework_star",
+						"nbt": "{CustomModelData:4006,display:{Name:\"[{\\\"text\\\":\\\"Topaz\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
+                    }
+                ]
+            }
+        }
+    }
+}

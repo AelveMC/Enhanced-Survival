@@ -1,0 +1,2 @@
+Gems found through loot table:
+	minecraft/loot_tables/blocks/granite.json

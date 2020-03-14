@@ -1,0 +1,104 @@
+{
+  "pools": [
+    {
+      "rolls": 7,
+      "entries": [
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/abandoned_mineshaft",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/buried_treasure",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/desert_pyramid",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/end_city_treasure",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/igloo_chest",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "gems/jungle_temple_combined",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/nether_bridge",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/pillager_outpost",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/shipwreck_map",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/shipwreck_supply",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/shipwreck_treasure",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/simple_dungeon",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/stronghold_corridor",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/stronghold_crossing",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/stronghold_library",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/underwater_ruin_big",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/underwater_ruin_small",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/village_combined",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:loot_table",
+          "name": "minecraft:chests/woodland_mansion",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}
