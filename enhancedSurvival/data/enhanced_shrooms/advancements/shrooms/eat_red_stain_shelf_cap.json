@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:dried_kelp",
+		  "nbt": "{CustomModelData:3032,display:{Name:\"[{\\\"text\\\":\\\"Red Stain Shelf Cap\\\",\\\"color\\\":\\\"light_purple\\\",\\\"italic\\\":false}]\"}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_shrooms:consume/eat_red_stain_shelf_cap"
+  }
+}

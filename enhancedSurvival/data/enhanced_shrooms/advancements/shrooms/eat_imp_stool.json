@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:dried_kelp",
+		  "nbt": "{CustomModelData:3026,display:{Name:\"[{\\\"text\\\":\\\"Imp Stool\\\",\\\"color\\\":\\\"light_purple\\\",\\\"italic\\\":false}]\"}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_shrooms:consume/eat_imp_stool"
+  }
+}

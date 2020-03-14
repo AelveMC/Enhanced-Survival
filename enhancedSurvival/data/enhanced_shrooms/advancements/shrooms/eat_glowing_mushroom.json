@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:dried_kelp",
+		  "nbt": "{CustomModelData:3020,display:{Name:\"[{\\\"text\\\":\\\"Glowing Mushroom\\\",\\\"color\\\":\\\"light_purple\\\",\\\"italic\\\":false}]\"}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_shrooms:consume/eat_glowing_mushroom"
+  }
+}

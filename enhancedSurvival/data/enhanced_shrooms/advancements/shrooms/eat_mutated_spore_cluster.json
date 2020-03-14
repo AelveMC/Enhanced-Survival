@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:dried_kelp",
+		  "nbt": "{CustomModelData:3028,display:{Name:\"[{\\\"text\\\":\\\"Mutated Spore Cluster\\\",\\\"color\\\":\\\"light_purple\\\",\\\"italic\\\":false}]\"}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_shrooms:consume/eat_mutated_spore_cluster"
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:dragon_breath",
+            "item_h": "minecraft:dragon_breath"
+        },
+        {
+            "item": "minecraft:red_mushroom",
+            "item_h": "minecraft:red_mushroom"
+        },
+        {
+            "item": "minecraft:brown_mushroom",
+            "item_h": "minecraft:brown_mushroom"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "item_h": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

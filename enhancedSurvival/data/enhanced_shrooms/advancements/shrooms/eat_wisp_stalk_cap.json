@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:dried_kelp",
+		  "nbt": "{CustomModelData:3043,display:{Name:\"[{\\\"text\\\":\\\"Wisp Stalk Cap\\\",\\\"color\\\":\\\"light_purple\\\",\\\"italic\\\":false}]\"}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_shrooms:consume/eat_wisp_stalk_cap"
+  }
+}

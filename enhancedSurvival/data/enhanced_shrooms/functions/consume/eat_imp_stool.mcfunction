@@ -1,0 +1,24 @@
+# Made by Aelve
+# Called by JSON file of the same name in advancements/shrooms/
+
+advancement revoke @s only enhanced_shrooms:shrooms/eat_imp_stool
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
+summon vex ~ ~2 ~ {LifeTicks:100, HandItems:[{},{}], Attributes:[{Name:"generic.attackDamage",Base:1}], ActiveEffects:[{Id:14,Amplifier:1,Duration:2147483647,ShowParticles:0b},{Id:24,Amplifier:1,Duration:2147483647,ShowParticles:0b}]}
