@@ -1,0 +1,11 @@
+{
+    "parent": "block/carved_pumpkin",
+	"overrides": [
+		{"predicate": {"custom_model_data":1051}, "model": "wearables/stability_circlet"},
+		{"predicate": {"custom_model_data":1052}, "model": "wearables/chilled_circlet"},
+		{"predicate": {"custom_model_data":1053}, "model": "wearables/impact_circlet"},
+		{"predicate": {"custom_model_data":1054}, "model": "wearables/aegis_circlet"},
+		{"predicate": {"custom_model_data":1055}, "model": "wearables/brier_circlet"},
+		{"predicate": {"custom_model_data":1056}, "model": "wearables/abyss_walker"}
+	]
+}

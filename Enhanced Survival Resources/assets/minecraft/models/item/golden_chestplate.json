@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/golden_chestplate"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1012}, "model": "wearables/lost_divine_chestplate"}
+	]
+}

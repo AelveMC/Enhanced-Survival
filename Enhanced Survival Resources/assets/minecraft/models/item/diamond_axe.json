@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_axe"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2002}, "model": "wieldables/obsidian_axe"},
+		{"predicate": {"custom_model_data":2050}, "model": "wieldables/axe_of_plenty"},
+		{"predicate": {"custom_model_data":2051}, "model": "wieldables/enhanced_axe"}
+	]
+}

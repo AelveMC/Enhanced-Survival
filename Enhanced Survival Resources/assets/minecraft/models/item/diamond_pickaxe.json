@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_pickaxe"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2003}, "model": "wieldables/obsidian_pickaxe"},
+		{"predicate": {"custom_model_data":2060}, "model": "wieldables/rich_pick"},
+		{"predicate": {"custom_model_data":2061}, "model": "wieldables/greater_rich_pick"},
+		{"predicate": {"custom_model_data":2062}, "model": "wieldables/enhanced_pickaxe"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/golden_leggings"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1013}, "model": "wearables/lost_divine_leggings"}
+	]
+}

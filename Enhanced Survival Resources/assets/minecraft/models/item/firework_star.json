@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/firework_star",
+        "layer1": "item/firework_star_overlay"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 4000 }, "model": "materials/amethyst" },
+		{ "predicate": { "custom_model_data": 4001 }, "model": "materials/aquamarine" },
+		{ "predicate": { "custom_model_data": 4002 }, "model": "materials/jade" },
+		{ "predicate": { "custom_model_data": 4003 }, "model": "materials/moonstone" },
+		{ "predicate": { "custom_model_data": 4004 }, "model": "materials/ruby" },
+		{ "predicate": { "custom_model_data": 4005 }, "model": "materials/sapphire" },
+		{ "predicate": { "custom_model_data": 4006 }, "model": "materials/topaz" }
+	]
+}

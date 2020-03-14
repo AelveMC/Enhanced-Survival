@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_boots"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1024}, "model": "wearables/valkyrie_boots"}
+	]
+}

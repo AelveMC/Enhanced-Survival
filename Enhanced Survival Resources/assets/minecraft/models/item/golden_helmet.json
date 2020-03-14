@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/golden_helmet"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1011}, "model": "wearables/lost_divine_helmet"}
+	]
+}

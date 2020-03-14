@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_helmet"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1021}, "model": "wearables/valkyrie_helmet"}
+	]
+}

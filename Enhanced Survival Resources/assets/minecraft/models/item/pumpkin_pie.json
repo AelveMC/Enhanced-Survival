@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/pumpkin_pie"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":3106}, "model": "consumables/chocolate_pie"},
+		{"predicate": {"custom_model_data":3107}, "model": "consumables/apple_pie"},
+		{"predicate": {"custom_model_data":3108}, "model": "consumables/custard_pie"},
+		{"predicate": {"custom_model_data":3109}, "model": "consumables/berry_pie"}
+	]
+}
