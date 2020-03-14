@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+		  "type": {
+            "direct_entity": {
+              "type": "minecraft:arrow"
+            }
+          },
+		  "source_entity": {
+		    "equipment": {
+			  "mainhand": {
+			    "item": "minecraft:bow",
+				"nbt": "{display:{Lore:[\"[{\\\"text\\\":\\\"Assassin\\\",\\\"italic\\\":false,\\\"color\\\":\\\"gray\\\"}]\"]}}"
+			  }
+			}
+		  }
+        },
+        "entity": {
+          "type": "#enhanced_weapons:targetable"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_weapons:assassin_damage"
+  }
+}

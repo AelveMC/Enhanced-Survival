@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "#enhanced_weapons:targetable"
+        },
+        "killing_blow": {
+          "source_entity": {
+            "equipment": {
+		      "mainhand": {
+			    "tag": "enhanced_weapons:close_combat",
+			    "nbt": "{display:{Lore:[\"[{\\\"text\\\":\\\"XP+\\\",\\\"italic\\\":false,\\\"color\\\":\\\"gray\\\"}]\"]}}"
+		      }
+		    }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_weapons:xp_damage"
+  }
+}

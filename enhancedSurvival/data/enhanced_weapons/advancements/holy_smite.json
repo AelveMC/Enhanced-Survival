@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+		  "source_entity": {
+		    "equipment": {
+			  "mainhand": {
+			    "tag": "enhanced_weapons:close_combat",
+				"nbt": "{display:{Lore:[\"[{\\\"text\\\":\\\"Holy Smite\\\",\\\"italic\\\":false,\\\"color\\\":\\\"gray\\\"}]\"]}}"
+			  }  
+			}
+		  }
+        },
+        "entity": {
+          "type": "#enhanced_weapons:undead"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_weapons:holy_smite_damage"
+  }
+}

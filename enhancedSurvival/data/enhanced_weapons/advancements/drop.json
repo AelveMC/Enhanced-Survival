@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+		  "source_entity": {
+		    "equipment": {
+			  "mainhand": {
+			    "tag": "enhanced_weapons:close_combat",
+				"nbt": "{display:{Lore:[\"[{\\\"text\\\":\\\"Drop\\\",\\\"italic\\\":false,\\\"color\\\":\\\"gray\\\"}]\"]}}"
+			  }
+			}
+		  }
+        },
+        "entity": {
+          "type": "#enhanced_weapons:targetable"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_weapons:drop_damage"
+  }
+}
