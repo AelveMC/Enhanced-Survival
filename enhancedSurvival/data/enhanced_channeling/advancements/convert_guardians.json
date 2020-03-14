@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:channeled_lightning",
+      "conditions": {
+        "victims": [
+          {
+            "type": "minecraft:guardian"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_channeling:convert_guardians"
+  }
+}

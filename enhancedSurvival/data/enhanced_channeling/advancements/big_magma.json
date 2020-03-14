@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:channeled_lightning",
+      "conditions": {
+        "victims": [
+          {
+            "type": "minecraft:magma_cube"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_channeling:enlarge_magma"
+  }
+}
