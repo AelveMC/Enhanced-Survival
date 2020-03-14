@@ -1,0 +1,33 @@
+############################################################
+Find links to texture sources in "Resources" file.
+Textures may have been modifed to fit into the game better.
+############################################################
+
+By Avery
+- Obsidian Tools
+- Lost Divine Tools
+- looting_blade
+
+By NeonLugia
+- guardian_sword
+
+By ThisIsEllian
+- greater_looting_blade
+- tech_sword
+
+By MiniTehHedgehog
+- vermin_bane
+- grim_scythe
+- enhanced_pickaxe
+
+By Legendguard
+- axe_of_plenty
+- rich_pick
+- greater_rich_pick
+
+By Babysamurai
+- whirlwind
+
+By Insert_Disc_2
+- curse_sword
+- fairy_sword
