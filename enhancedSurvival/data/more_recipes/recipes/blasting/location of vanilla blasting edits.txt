@@ -1,0 +1,3 @@
+minecraft/recipes/gold_nugget_from_blasting.json
+minecraft/recipes/iron_nugget_from_blasting.json
+

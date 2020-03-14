@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:gravel",
+        "item_h": "minecraft:gravel"
+    },
+    "result": "minecraft:sand",
+    "count": 1
+}
