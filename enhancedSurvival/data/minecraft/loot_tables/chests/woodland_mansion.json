@@ -87,7 +87,7 @@
           ],
           "name": "minecraft:iron_block"
         },
-		
+		{
           "type": "minecraft:item",
           "weight": 10,
           "functions": [
