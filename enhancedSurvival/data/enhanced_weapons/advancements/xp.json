@@ -3,9 +3,6 @@
     "unlock": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
-        "entity": {
-          "type": "#enhanced_weapons:targetable"
-        },
         "killing_blow": {
           "source_entity": {
             "equipment": {
@@ -15,7 +12,16 @@
 		      }
 		    }
           }
-        }
+        },
+		"entity": [
+		  {
+		    "condition": "minecraft:entity_properties",
+			"predicate": {
+			  "type": "#enhanced_weapons:targetable"
+			},
+			"entity": "this"
+		  }
+		]
       }
     }
   },

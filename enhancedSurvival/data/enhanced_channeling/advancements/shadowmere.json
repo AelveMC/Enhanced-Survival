@@ -5,7 +5,11 @@
       "conditions": {
         "victims": [
           {
-            "type": "minecraft:skeleton_horse"
+		    "condition": "minecraft:entity_properties",
+			"predicate": {
+			  "type": "minecraft:skeleton_horse"
+			},
+			"entity": "this"
           }
         ]
       }

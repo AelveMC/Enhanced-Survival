@@ -5,7 +5,11 @@
       "conditions": {
         "victims": [
           {
-            "type": "minecraft:witch"
+		    "condition": "minecraft:entity_properties",
+			"predicate": {
+			  "type": "minecraft:witch"
+			},
+			"entity": "this"
           }
         ]
       }

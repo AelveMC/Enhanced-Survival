@@ -30,7 +30,7 @@
         },
 		{
           "type": "minecraft:loot_table",
-          "name": "gems/jungle_temple_combined",
+          "name": "gems:jungle_temple_combined",
           "weight": 1
         },
 		{
@@ -90,7 +90,7 @@
         },
 		{
           "type": "minecraft:loot_table",
-          "name": "minecraft:chests/village_combined",
+          "name": "gems:village_combined",
           "weight": 1
         },
 		{

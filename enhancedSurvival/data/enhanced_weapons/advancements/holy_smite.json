@@ -13,9 +13,15 @@
 			}
 		  }
         },
-        "entity": {
-          "type": "#enhanced_weapons:undead"
-        }
+        "entity": [
+		  {
+		    "condition": "minecraft:entity_properties",
+			"predicate": {
+			  "type": "#enhanced_weapons:undead"
+			},
+			"entity": "this"
+		  }
+		]
       }
     }
   },

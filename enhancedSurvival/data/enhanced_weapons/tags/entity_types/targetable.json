@@ -22,6 +22,7 @@
 	"minecraft:ghast",
 	"minecraft:giant",
 	"minecraft:guardian",
+	"minecraft:hoglin",
 	"minecraft:horse",
 	"minecraft:husk",
 	"minecraft:illusioner",
@@ -35,6 +36,7 @@
 	"minecraft:parrot",
 	"minecraft:phantom",
 	"minecraft:pig",
+	"minecraft:piglin",
 	"minecraft:pillager",
 	"minecraft:polar_bear",
 	"minecraft:pufferfish",
@@ -51,6 +53,7 @@
 	"minecraft:spider",
 	"minecraft:squid",
 	"minecraft:stray",
+	"minecraft:strider",
 	"minecraft:trader_llama",
 	"minecraft:tropical_fish",
 	"minecraft:turtle",
@@ -62,9 +65,10 @@
 	"minecraft:wither",
 	"minecraft:wither_skeleton",
 	"minecraft:wolf",
+	"minecraft:zoglin",
 	"minecraft:zombie",
 	"minecraft:zombie_horse",
-	"minecraft:zombie_pigman",
-	"minecraft:zombie_villager"
+	"minecraft:zombie_villager",
+	"minecraft:zombified_piglin"
   ]
 }

@@ -17,7 +17,23 @@
 			{
 			  "function": "set_nbt",
 			  "tag": "{CustomModelData:4000,display:{Name:\"[{\\\"text\\\":\\\"Amethyst\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
-			}
+			},
+			{
+			  "function": "minecraft:set_count",
+			  "count": {
+				"min": 1.0,
+				"max": 1.0,
+				"type": "minecraft:uniform"
+			  }
+            },
+			{
+			  "function": "minecraft:apply_bonus",
+			  "enchantment": "minecraft:fortune",
+			  "formula": "minecraft:uniform_bonus_count",
+			  "parameters": {
+				"bonusMultiplier": 1
+			  }
+            }
           ],
           "conditions": [
             {
@@ -95,7 +111,23 @@
 			{
 			  "function": "set_nbt",
 			  "tag": "{CustomModelData:4001,display:{Name:\"[{\\\"text\\\":\\\"Aquamarine\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
-			}
+			},
+			{
+			  "function": "minecraft:set_count",
+			  "count": {
+				"min": 1.0,
+				"max": 1.0,
+				"type": "minecraft:uniform"
+			  }
+            },
+			{
+			  "function": "minecraft:apply_bonus",
+			  "enchantment": "minecraft:fortune",
+			  "formula": "minecraft:uniform_bonus_count",
+			  "parameters": {
+				"bonusMultiplier": 1
+			  }
+            }
           ],
           "conditions": [
             {
@@ -173,7 +205,23 @@
 			{
 			  "function": "set_nbt",
 			  "tag": "{CustomModelData:4002,display:{Name:\"[{\\\"text\\\":\\\"Jade\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
-			}
+			},
+			{
+			  "function": "minecraft:set_count",
+			  "count": {
+				"min": 1.0,
+				"max": 1.0,
+				"type": "minecraft:uniform"
+			  }
+            },
+			{
+			  "function": "minecraft:apply_bonus",
+			  "enchantment": "minecraft:fortune",
+			  "formula": "minecraft:uniform_bonus_count",
+			  "parameters": {
+				"bonusMultiplier": 1
+			  }
+            }
           ],
           "conditions": [
             {
@@ -239,7 +287,23 @@
 			{
 			  "function": "set_nbt",
 			  "tag": "{CustomModelData:4003,display:{Name:\"[{\\\"text\\\":\\\"Moonstone\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
-			}
+			},
+			{
+			  "function": "minecraft:set_count",
+			  "count": {
+				"min": 1.0,
+				"max": 1.0,
+				"type": "minecraft:uniform"
+			  }
+            },
+			{
+			  "function": "minecraft:apply_bonus",
+			  "enchantment": "minecraft:fortune",
+			  "formula": "minecraft:uniform_bonus_count",
+			  "parameters": {
+				"bonusMultiplier": 1
+			  }
+            }
           ],
           "conditions": [
             {
@@ -329,7 +393,23 @@
 			{
 			  "function": "set_nbt",
 			  "tag": "{CustomModelData:4004,display:{Name:\"[{\\\"text\\\":\\\"Ruby\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
-			}
+			},
+			{
+			  "function": "minecraft:set_count",
+			  "count": {
+				"min": 1.0,
+				"max": 1.0,
+				"type": "minecraft:uniform"
+			  }
+            },
+			{
+			  "function": "minecraft:apply_bonus",
+			  "enchantment": "minecraft:fortune",
+			  "formula": "minecraft:uniform_bonus_count",
+			  "parameters": {
+				"bonusMultiplier": 1
+			  }
+            }
           ],
           "conditions": [
             {
@@ -389,7 +469,23 @@
 			{
 			  "function": "set_nbt",
 			  "tag": "{CustomModelData:4005,display:{Name:\"[{\\\"text\\\":\\\"Sapphire\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
-			}
+			},
+			{
+			  "function": "minecraft:set_count",
+			  "count": {
+				"min": 1.0,
+				"max": 1.0,
+				"type": "minecraft:uniform"
+			  }
+            },
+			{
+			  "function": "minecraft:apply_bonus",
+			  "enchantment": "minecraft:fortune",
+			  "formula": "minecraft:uniform_bonus_count",
+			  "parameters": {
+				"bonusMultiplier": 1
+			  }
+            }
           ],
           "conditions": [
             {
@@ -449,7 +545,23 @@
 			{
 			  "function": "set_nbt",
 			  "tag": "{CustomModelData:4006,display:{Name:\"[{\\\"text\\\":\\\"Topaz\\\",\\\"color\\\":\\\"yellow\\\",\\\"italic\\\":false}]\"}}"
-			}
+			},
+			{
+			  "function": "minecraft:set_count",
+			  "count": {
+				"min": 1.0,
+				"max": 1.0,
+				"type": "minecraft:uniform"
+			  }
+            },
+			{
+			  "function": "minecraft:apply_bonus",
+			  "enchantment": "minecraft:fortune",
+			  "formula": "minecraft:uniform_bonus_count",
+			  "parameters": {
+				"bonusMultiplier": 1
+			  }
+            }
           ],
           "conditions": [
             {

@@ -5,7 +5,11 @@
       "conditions": {
         "victims": [
           {
-            "type": "minecraft:slime"
+		    "condition": "minecraft:entity_properties",
+			"predicate": {
+			  "type": "minecraft:slime"
+			},
+			"entity": "this"
           }
         ]
       }

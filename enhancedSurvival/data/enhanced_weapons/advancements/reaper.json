@@ -14,9 +14,15 @@
 			}
 		  }
         },
-        "entity": {
-          "type": "#enhanced_weapons:animals"
-        }
+        "entity": [
+		  {
+		    "condition": "minecraft:entity_properties",
+			"predicate": {
+			  "type": "#enhanced_weapons:animals"
+			},
+			"entity": "this"
+		  }
+		]
       }
     }
   },

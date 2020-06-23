@@ -5,7 +5,11 @@
       "conditions": {
         "victims": [
           {
-            "type": "minecraft:magma_cube"
+		    "condition": "minecraft:entity_properties",
+			"predicate": {
+			  "type": "minecraft:magma_cube"
+			},
+			"entity": "this"
           }
         ]
       }

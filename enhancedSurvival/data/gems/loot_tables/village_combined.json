@@ -95,7 +95,7 @@
       "entries": [
 		{
           "type": "minecraft:loot_table",
-          "name": "minecraft:chests/village/village_shephard",
+          "name": "minecraft:chests/village/village_shepherd",
           "weight": 1
         }
       ]

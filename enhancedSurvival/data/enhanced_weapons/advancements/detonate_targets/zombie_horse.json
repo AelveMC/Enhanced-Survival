@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+		  "type": {
+            "direct_entity": {
+              "type": "minecraft:arrow"
+            }
+          },
+		  "source_entity": {
+		    "equipment": {
+			  "mainhand": {
+			    "item": "minecraft:bow",
+				"nbt": "{display:{Lore:[\"[{\\\"text\\\":\\\"Detonate\\\",\\\"italic\\\":false,\\\"color\\\":\\\"gray\\\"}]\"]}}"
+			  }
+			}
+		  }
+        },
+        "entity": [
+		  {
+		    "condition": "minecraft:entity_properties",
+			"predicate": {
+			  "type": "zombie_horse"
+			},
+			"entity": "this"
+		  }
+		]
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_weapons:detonate_damage/damage_zombie_horse"
+  }
+}

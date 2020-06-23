@@ -3,6 +3,7 @@
 #Initialise other datapacks
 function enhanced_shrooms:init_shrooms
 function more_food:init_food
+function enhanced_weapons:init_weapons
 
 
 

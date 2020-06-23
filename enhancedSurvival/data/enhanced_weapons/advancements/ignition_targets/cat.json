@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+		  "type": {
+            "direct_entity": {
+              "type": "minecraft:arrow"
+            }
+          },
+		  "source_entity": {
+		    "equipment": {
+			  "mainhand": {
+			    "item": "minecraft:bow",
+				"nbt": "{display:{Lore:[\"[{\\\"text\\\":\\\"Ignition\\\",\\\"italic\\\":false,\\\"color\\\":\\\"gray\\\"}]\"]}}"
+			  }
+			}
+		  }
+        },
+        "entity": [
+		  {
+		    "condition": "minecraft:entity_properties",
+			"predicate": {
+			  "type": "cat"
+			},
+			"entity": "this"
+		  }
+		]
+      }
+    }
+  },
+  "rewards": {
+    "function": "enhanced_weapons:ignition_damage/damage_cat"
+  }
+}
