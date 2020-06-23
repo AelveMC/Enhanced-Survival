@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_hoe"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2005}, "model": "wieldables/obsidian_hoe"},
+		{"predicate": {"custom_model_data":2040}, "model": "wieldables/vermin_bane"},
+		{"predicate": {"custom_model_data":2041}, "model": "wieldables/grim_scythe"},
+		{"predicate": {"custom_model_data":2049}, "model": "wieldables/enhanced_hoe"}
+	]
+}
