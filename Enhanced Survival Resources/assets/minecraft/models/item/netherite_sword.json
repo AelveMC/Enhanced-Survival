@@ -1,0 +1,15 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_sword"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2001}, "model": "wieldables/obsidian_sword"},
+		{"predicate": {"custom_model_data":2030}, "model": "wieldables/guardian_sword"},
+		{"predicate": {"custom_model_data":2031}, "model": "wieldables/looting_blade"},
+		{"predicate": {"custom_model_data":2032}, "model": "wieldables/greater_looting_blade"},
+		{"predicate": {"custom_model_data":2033}, "model": "wieldables/fire_sword"},
+		{"predicate": {"custom_model_data":2034}, "model": "wieldables/tech_sword"},
+		{"predicate": {"custom_model_data":2036}, "model": "wieldables/fairy_sword"}
+	]
+}

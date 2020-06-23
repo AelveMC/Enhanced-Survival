@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_shovel"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2004}, "model": "wieldables/obsidian_shovel"},
+		{"predicate": {"custom_model_data":2080}, "model": "wieldables/enhanced_shovel"}
+	]
+}
